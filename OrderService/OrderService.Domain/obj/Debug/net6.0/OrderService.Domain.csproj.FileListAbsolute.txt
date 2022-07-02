@@ -1,0 +1,12 @@
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/bin/Debug/net6.0/OrderService.Domain.deps.json
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/bin/Debug/net6.0/OrderService.Domain.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/bin/Debug/net6.0/OrderService.Domain.pdb
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.csproj.AssemblyReference.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.AssemblyInfoInputs.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.AssemblyInfo.cs
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.csproj.CoreCompileInputs.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/refint/OrderService.Domain.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/OrderService.Domain.pdb
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Domain/obj/Debug/net6.0/ref/OrderService.Domain.dll

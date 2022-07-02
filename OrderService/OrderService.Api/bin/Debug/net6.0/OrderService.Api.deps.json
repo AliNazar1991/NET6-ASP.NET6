@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OrderService.Api/1.0.0": {
+        "dependencies": {
+          "OrderService.Application": "1.0.0",
+          "OrderService.Contracts": "1.0.0",
+          "OrderService.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "OrderService.Api.dll": {}
+        }
+      },
+      "OrderService.Application/1.0.0": {
+        "dependencies": {
+          "OrderService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OrderService.Application.dll": {}
+        }
+      },
+      "OrderService.Contracts/1.0.0": {
+        "runtime": {
+          "OrderService.Contracts.dll": {}
+        }
+      },
+      "OrderService.Domain/1.0.0": {
+        "runtime": {
+          "OrderService.Domain.dll": {}
+        }
+      },
+      "OrderService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OrderService.Application": "1.0.0"
+        },
+        "runtime": {
+          "OrderService.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderService.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderService.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

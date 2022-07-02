@@ -1,0 +1,15 @@
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/bin/Debug/net6.0/OrderService.Application.deps.json
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/bin/Debug/net6.0/OrderService.Application.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/bin/Debug/net6.0/OrderService.Application.pdb
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.csproj.AssemblyReference.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.AssemblyInfoInputs.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.AssemblyInfo.cs
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.csproj.CoreCompileInputs.cache
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/refint/OrderService.Application.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.pdb
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/ref/OrderService.Application.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/bin/Debug/net6.0/OrderService.Domain.dll
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/bin/Debug/net6.0/OrderService.Domain.pdb
+/Users/alinazar/Desktop/personal/Repos/NET6-ASP.NET6/OrderService/OrderService.Application/obj/Debug/net6.0/OrderService.Application.csproj.CopyComplete
